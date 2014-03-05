@@ -12,7 +12,7 @@ namespace TestLocalization.Controllers
         // GET: /TestToErase/
         public ActionResult Index()
         {
-            Console.WriteLine("What the fuck");
+            Console.WriteLine("Let's do it!");
         }
 	}
 }
